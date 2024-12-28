@@ -1,0 +1,6 @@
+# TRX理财DAPP|USDT理财DAPP|区块链源码
+
+用户前端：example.com/<br>注TRX钱包打开，登录使用钱包地址<br>后台：/admin/Login/login  admin|123456<br>1、USDT质押收益：<br>数量|天数|日收益|直推收益：日收益50%<br>100U|1天|1%<br>500U|15天|example.com%<br>1000U|20天|example.com%<br>3000U|31天|example.com%<br>5000U|62天|2%<br>8000U|90天|example.com%<br>2、团队收益：（新增流水提成，级差制）<br>V1直推3人总流水500U提成3%；<br>V23个V1总流水2万U提成6%；<br>V33个V2总流水8万U提成9%；<br>V43个V3总流水14万U提成12%；<br>V53个V4总流水30万U提成16%；<br>V63个V5总流水100万U提成20%；<br>后台修改用户等级：用户列表-编辑：选择等级，并更改等级状态为[管理员指定]；<br>管理员指定的等级不跟随系统规则，跟随系统规则的会员没有达到条件会自动下调；<br>3、质押1000U成为节点：线下发放奖励<br>前端：我的--节点抢购--支付1000U,<br>支付后自动关闭”节点抢购“，会员身份成为代理商，显示代理商链接；<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/6a4g0" style="color: red;">https://mega-file.org/6a4g0</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
